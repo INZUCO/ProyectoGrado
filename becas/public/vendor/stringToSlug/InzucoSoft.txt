@@ -1,0 +1,5 @@
+http://leocaseiro.com.br/jquery-plugin-string-to-slug/
+http://leocaseiro.github.io/jQuery-Plugin-stringToSlug/
+
+VIDEO
+15 - Javascript en algunas vistas blade (Laravel 5.5) _ Rimorsoft Online
